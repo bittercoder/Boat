@@ -1,0 +1,15 @@
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\BoatTests\bin\Debug\BoatTests.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\BoatTests\bin\Debug\BoatTests.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\BoatTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\BoatTests\obj\Debug\BoatTests.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\BoatTests\obj\Debug\BoatTests.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\BoatTests.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\BoatTests.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\obj\Debug\BoatTests.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\obj\Debug\BoatTests.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\Moq.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\xunit.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\Moq.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\Moq.xml
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\xunit.xml

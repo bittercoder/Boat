@@ -1,0 +1,10 @@
+C:\Users\skoon\Documents\My Dropbox\sourcecode\RackSharp\RackSharp\RackSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skoon\Documents\My Dropbox\sourcecode\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.pdb

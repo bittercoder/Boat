@@ -1,0 +1,5 @@
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\SinatraSharp\bin\Debug\SinatraSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\SinatraSharp\bin\Debug\SinatraSharp.pdb
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\SinatraSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\SinatraSharp\obj\Debug\SinatraSharp.dll
+C:\Users\skoon\Documents\My Dropbox\sourcecode\Sinatra#\SinatraSharp\SinatraSharp\obj\Debug\SinatraSharp.pdb
