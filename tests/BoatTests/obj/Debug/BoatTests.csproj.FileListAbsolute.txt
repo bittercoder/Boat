@@ -13,3 +13,13 @@ C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\xu
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\Moq.pdb
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\Moq.xml
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\tests\BoatTests\bin\Debug\xunit.xml
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\BoatTests.dll
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\BoatTests.pdb
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\Moq.dll
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\xunit.dll
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\Moq.pdb
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\Moq.xml
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\bin\Debug\xunit.xml
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\obj\Debug\BoatTests.dll
+C:\dev\Projects\OpenSource\Boat\tests\BoatTests\obj\Debug\BoatTests.pdb

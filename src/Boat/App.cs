@@ -6,18 +6,15 @@ namespace Boat
 {
     public class App : IRack
     {
-
         private Context _context = null;
         private List<IHandler> _getHandlers = null;
         private List<IHandler> _postHandlers = null;
         private List<IHandler> _putHandlers = null;
         private List<IHandler> _deleteHandlers = null;
         
-        
         public App(Context context)
         {
-            _context = context;
-            
+            _context = context;            
         }
 
         public Context Context { get { return _context; } }
@@ -34,7 +31,7 @@ namespace Boat
 
         #region IRack Members
 
-        public string[] call(IRackEnvironment environment)
+				public Tuple<IRackStatus, IHeaderCollection, IBody> call(IRackEnvironment environment)
         {
             throw new NotImplementedException();
         }

@@ -8,3 +8,8 @@ C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\Rack
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.dll
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.pdb
+C:\dev\Projects\OpenSource\Boat\lib\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.dll
+C:\dev\Projects\OpenSource\Boat\lib\RackSharp\RackSharp\RackSharp\bin\Debug\RackSharp.pdb
+C:\dev\Projects\OpenSource\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Projects\OpenSource\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.dll
+C:\dev\Projects\OpenSource\Boat\lib\RackSharp\RackSharp\RackSharp\obj\Debug\RackSharp.pdb

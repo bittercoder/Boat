@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web;
@@ -8,6 +7,6 @@ namespace RackSharp
 {
     public interface IRack
     {
-        string[] call(IRackEnvironment environment);
+        Tuple<IRackStatus, IHeaderCollection, IBody> call(IRackEnvironment environment);
     }
 }

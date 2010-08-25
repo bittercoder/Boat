@@ -10,6 +10,5 @@ namespace RackSharp
     {
         IRackRequest Request { get; set; }
         IRackResponse Response { get; set; }
-
     }
 }

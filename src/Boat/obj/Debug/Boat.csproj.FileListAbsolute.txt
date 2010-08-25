@@ -10,3 +10,10 @@ C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\src\Boat\obj\Debug\SinatraSh
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\src\Boat\obj\Debug\SinatraSharp.pdb
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\src\Boat\bin\Debug\RackSharp.dll
 C:\Users\skoon\Documents\My Dropbox\sourcecode\Boat\src\Boat\bin\Debug\RackSharp.pdb
+C:\dev\Projects\OpenSource\Boat\src\Boat\bin\Debug\SinatraSharp.dll
+C:\dev\Projects\OpenSource\Boat\src\Boat\bin\Debug\SinatraSharp.pdb
+C:\dev\Projects\OpenSource\Boat\src\Boat\bin\Debug\RackSharp.dll
+C:\dev\Projects\OpenSource\Boat\src\Boat\bin\Debug\RackSharp.pdb
+C:\dev\Projects\OpenSource\Boat\src\Boat\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Projects\OpenSource\Boat\src\Boat\obj\Debug\SinatraSharp.dll
+C:\dev\Projects\OpenSource\Boat\src\Boat\obj\Debug\SinatraSharp.pdb
